@@ -57,5 +57,7 @@ def preprocess_data(dataset, feature_extractor):
 ## 5. Training Logs
 Epoch Details: Provide an example of the logs from an epoch.
 ```bash
-tail -n 50 /home/intern_2024_pds/brian/lab/ViT/lightning_logs/version_x/logs.txt
+Epoch 0: 100%|██████████| 1667/1667 [07:07<00:00,  3.90it/s, v_num=1, train_loss=0.610, train_acc=0.857]
 ```
+## 6. Results
+Log Directory: /home/intern_2024_pds/brian/lab/ViT/results/ViT/version_1
